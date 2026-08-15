@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-BAPADAAN™-blue.svg)](https://www.gnu.org/licenses/gpl-2.0)
 [![Maintainer](https://img.shields.io/badge/Maintainer-kingD2N-orange.svg)](#)
 
-Selamat datang di repositori resmi untuk pengembangan Custom Kernel dan Custom Recovery (TWRP & OrangeFox) khusus untuk perangkat **[Nama Perangkat Anda, misal: POCO F4 GT]** dengan codename **`[codename_device, misal: ingres]`**.
+Selamat datang di repositori resmi untuk pengembangan Custom Kernel dan Custom Recovery (TWRP & OrangeFox) khusus untuk perangkat **POCO F4 GT** dengan codename **`[codename_device, misal: ingres]`**.
 
 ---
 
