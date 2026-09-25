@@ -71,4 +71,6 @@ Jika Anda menggunakan PC dan belum memiliki Custom Recovery:
 4. Buka Terminal/CMD di PC Anda dan ketikkan perintah berikut:
    ```bash
    fastboot flash recovery recovery.img
-   fastboot boot recovery.img
+   fastboot flash recovery_a recovery.img
+   fastboot flash recovery_b recovery.img
+   
